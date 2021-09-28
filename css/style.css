@@ -22,8 +22,6 @@ body{
 
 .grid{
     display: grid;
-    grid-template-columns: 500px 300px;
-    grid-template-rows: 300px;
     grid-template-areas: 
     'hero hero'
     'practice related';
