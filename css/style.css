@@ -6,6 +6,8 @@ body{
 .hero{
     grid-area: "hero";
     border: 5px solid red;
+    color: rgba(72, 7, 133, 0.795);
+    font-weight: 18px;
     width: 1000px;
     height: 600px;
     background-image: url("../images/crane.jpg");
